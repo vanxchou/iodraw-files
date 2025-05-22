@@ -46,7 +46,7 @@
         <mxCell id="BPsVmZDcFLfLiYrF7W8t-1" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="343" y="266" width="17" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="BPsVmZDcFLfLiYrF7W8t-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+        <mxCell id="BPsVmZDcFLfLiYrF7W8t-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="245.5" width="500" height="314.5" as="geometry" />
         </mxCell>
       </root>
