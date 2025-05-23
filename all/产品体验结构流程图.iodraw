@@ -356,8 +356,8 @@
         <mxCell id="Gxq2ssPRELsSzco4k-lC-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="595.5" y="360" width="474.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gxq2ssPRELsSzco4k-lC-16" value="&lt;b&gt;气体采样分析分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="10" y="315" width="194" height="35" as="geometry" />
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-16" value="&lt;b&gt;供电分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="376" y="400" width="194" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
