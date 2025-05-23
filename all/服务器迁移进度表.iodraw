@@ -31,9 +31,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.邮件模板设置&lt;br&gt;&lt;br&gt;2.发送快捷方式&lt;br&gt;&lt;br&gt;3.公司邮件公告" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF3333;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="503" y="300" width="130" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-834" value="1.排查共享故障&lt;br&gt;&lt;br&gt;2.测试终端加域&lt;br&gt;&lt;br&gt;3.终端策略测试" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#56D656;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="654" y="300" width="130" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="6pfswXwJ53Ai6hctfwme-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="-77.5" width="20" height="425" as="geometry" />
         </mxCell>
