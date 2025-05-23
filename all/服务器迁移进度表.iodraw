@@ -49,7 +49,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-830" value="1.系统方案设计&lt;br&gt;&lt;br&gt;2.方案报告评审&lt;br&gt;&lt;br&gt;3.账号信息同步" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#17997B;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="50" y="300" width="130" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-831" value="1.Win backup备份0.8服务器系统状态&lt;br&gt;&lt;br&gt;2.Win backup备份0.9服务器系统状态&lt;br&gt;&lt;br&gt;3.账号信息同步确认&lt;br&gt;&lt;br&gt;4.E盘卷影副本设置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#E6D332;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-831" value="1.完成正样机设计开发&lt;br&gt;&lt;br&gt;2.完成静态测试&lt;br&gt;&lt;br&gt;3.完成外场动态测试&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#E6D332;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="201" y="300" width="130" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="1.数据确认同步&lt;br&gt;&lt;br&gt;2.将服务器断网&lt;br&gt;&lt;br&gt;3.密码批量重置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF6666;arcSize=3;" parent="1" vertex="1">
