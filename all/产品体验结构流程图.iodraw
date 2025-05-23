@@ -98,7 +98,7 @@
           <mxGeometry x="64" y="-122" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-35" value="智能集成处理器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="635" y="30" width="180" height="235.5" as="geometry" />
+          <mxGeometry x="621.5" y="32.5" width="180" height="235.5" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-38" value="智能温度测量仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="124.19999999999999" width="120" height="40.8" as="geometry" />
