@@ -278,8 +278,8 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-48" value="状态监控传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="900" y="-25.92" width="194" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-50" value="状态监控传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-15.920000000000002" width="194" height="35" as="geometry" />
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-50" value="下垫面实景传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900" y="29.5" width="194" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
