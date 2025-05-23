@@ -17,16 +17,16 @@
           <mxGeometry x="44.5" y="212" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-830" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1.系统方案设计&lt;br&gt;&lt;br&gt;2.方案报告评审&lt;br&gt;&lt;br&gt;3.账号信息同步&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=left;strokeColor=#17997B;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="50" y="300" width="130" height="130" as="geometry" />
+          <mxGeometry x="50" y="299" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-831" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1.完成分系统详细设计&lt;br&gt;&lt;br&gt;2.完成正样机设计开发&lt;br&gt;&lt;br&gt;3.完成正样机联调&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=left;strokeColor=#E6D332;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="201" y="300" width="130" height="130" as="geometry" />
+          <mxGeometry x="201" y="299" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="1.完成正样机小批试制&lt;br&gt;2.完成静态测试&lt;br&gt;&lt;br&gt;3.完成外场动态测试&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;完成测试评估&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF6666;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="352" y="300" width="130" height="130" as="geometry" />
+          <mxGeometry x="352" y="299" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.完成产品资料归档&lt;br&gt;&lt;br&gt;2.完成转阶段评审&lt;br&gt;&lt;br&gt;3.完成产品发布" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF3333;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="503" y="300" width="130" height="210" as="geometry" />
+          <mxGeometry x="503" y="299" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6pfswXwJ53Ai6hctfwme-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="-77.5" width="20" height="425" as="geometry" />
