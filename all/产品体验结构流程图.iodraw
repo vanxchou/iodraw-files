@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="24.7.17">
   <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
-    <mxGraphModel dx="794" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
           <mxGeometry x="380" y="-58.2" width="54.14" height="25.4" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12240;points=[[0,0.5,0],[1,0.5,0]]" vertex="1" parent="1">
-          <mxGeometry x="441.86" y="1.2999999999999978" width="54.14" height="25.4" as="geometry" />
+          <mxGeometry x="380" y="0.5999999999999979" width="54.14" height="25.4" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12250;points=[[0,0.33,0],[1,0.33,0],[0.5,1,0]];rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="382.71" y="-125.69000000000001" width="48.71" height="42.38" as="geometry" />
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-8" value="接线端口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="-10" width="90" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-9" value="热管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-107" width="90" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
