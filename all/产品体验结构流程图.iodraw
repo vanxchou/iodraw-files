@@ -107,7 +107,7 @@
           <mxGeometry x="717" y="-51.5" width="120" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-39" value="气泵单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="58.5" width="90" height="113.5" as="geometry" />
+          <mxGeometry x="370" y="100" width="90" height="72" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-40" value="" style="shape=link;html=1;rounded=0;entryX=-0.005;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" target="K36soh0WRE9wux22xUP7-3">
           <mxGeometry relative="1" as="geometry">
@@ -145,7 +145,7 @@
             <mxPoint x="87" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-47" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-39" target="K36soh0WRE9wux22xUP7-5">
+        <mxCell id="K36soh0WRE9wux22xUP7-47" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.01;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-39" target="K36soh0WRE9wux22xUP7-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370.41556222098217" y="122" as="sourcePoint" />
             <mxPoint x="159" y="132" as="targetPoint" />
