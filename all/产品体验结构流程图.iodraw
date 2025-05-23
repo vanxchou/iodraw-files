@@ -214,9 +214,6 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-7" value="热管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="-112" width="90" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-112" width="102.93" height="185" as="geometry" />
-        </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-8" value="接线端口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="-10" width="90" height="47.3" as="geometry" />
         </mxCell>
