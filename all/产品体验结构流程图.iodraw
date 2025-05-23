@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12240;points=[[0,0.5,0],[1,0.5,0]]" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="111.7" height="52.4" as="geometry" />
+          <mxGeometry x="384.3" y="-60" width="54.14" height="25.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
