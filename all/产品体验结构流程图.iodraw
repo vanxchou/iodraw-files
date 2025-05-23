@@ -359,8 +359,8 @@
         <mxCell id="Gxq2ssPRELsSzco4k-lC-16" value="&lt;b&gt;供电分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
           <mxGeometry x="426" y="405" width="194" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Gxq2ssPRELsSzco4k-lC-17" value="&lt;b&gt;供电分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="436" y="415" width="194" height="35" as="geometry" />
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-17" value="&lt;b&gt;安装结构分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="405" width="194" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
