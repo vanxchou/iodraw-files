@@ -250,7 +250,7 @@
           <mxGeometry x="880" y="205.8" width="120" height="40.8" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon10;" vertex="1" parent="1">
-          <mxGeometry x="930" y="3.000000000000007" width="50" height="41" as="geometry" />
+          <mxGeometry x="880" y="26.500000000000007" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-32" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon10;" vertex="1" parent="1">
           <mxGeometry x="880" y="-31.92" width="50" height="41" as="geometry" />
@@ -269,9 +269,6 @@
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.159;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-27" target="3bBizhQkBI8qrhlUWJp7-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-47" value="状态监控传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="67.6" width="120" height="40.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
