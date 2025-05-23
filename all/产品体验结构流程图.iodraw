@@ -335,6 +335,36 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-88" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Verdana&quot;&gt;RJ45&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="703" y="12.579999999999998" width="40" height="36.08" as="geometry" />
         </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="220" width="210" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;气泵单元&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#99FF99;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="Gxq2ssPRELsSzco4k-lC-1">
+          <mxGeometry width="210" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-3" value="热管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="Gxq2ssPRELsSzco4k-lC-1">
+          <mxGeometry y="1.2009063444108763" width="90" height="38.42900302114804" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-4" value="滤瓶" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="Gxq2ssPRELsSzco4k-lC-1">
+          <mxGeometry y="63.64803625377643" width="90" height="38.42900302114804" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Gxq2ssPRELsSzco4k-lC-1" source="Gxq2ssPRELsSzco4k-lC-6" target="Gxq2ssPRELsSzco4k-lC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-6" value="控制电路" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="Gxq2ssPRELsSzco4k-lC-1">
+          <mxGeometry x="120" y="0.8006042296072508" width="90" height="38.42900302114804" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="Gxq2ssPRELsSzco4k-lC-1" source="Gxq2ssPRELsSzco4k-lC-8" target="Gxq2ssPRELsSzco4k-lC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-8" value="隔膜泵" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="Gxq2ssPRELsSzco4k-lC-1">
+          <mxGeometry x="120" y="63.64803625377643" width="90" height="38.42900302114804" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-9" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Gxq2ssPRELsSzco4k-lC-1" source="Gxq2ssPRELsSzco4k-lC-4" target="Gxq2ssPRELsSzco4k-lC-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="82.46223564954683" as="sourcePoint" />
+            <mxPoint x="10" y="90.46827794561935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
