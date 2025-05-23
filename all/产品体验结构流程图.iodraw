@@ -251,7 +251,7 @@
           <mxGeometry x="888.77" y="270" width="111.23" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-34" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon11;" vertex="1" parent="1">
-          <mxGeometry x="858" y="-110" width="62" height="43" as="geometry" />
+          <mxGeometry x="900" y="-111" width="62" height="43" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-37" value="电磁阀单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="366" y="44" width="194" height="35" as="geometry" />
