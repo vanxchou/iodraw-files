@@ -101,7 +101,7 @@
           <mxGeometry x="440" y="216.5" width="120" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-36" value="电磁阀单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-59.25" width="120" height="113.5" as="geometry" />
+          <mxGeometry x="370" y="-69" width="120" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-38" value="通信单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="-51.5" width="120" height="113.5" as="geometry" />
@@ -149,18 +149,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370.41556222098217" y="122" as="sourcePoint" />
             <mxPoint x="159" y="132" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-49" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="460" y="-10" as="targetPoint" />
-            <mxPoint x="359.9999999999993" y="-9.999999999999773" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-50" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="320" y="70" as="targetPoint" />
-            <mxPoint x="320" y="9.999999999999773" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
