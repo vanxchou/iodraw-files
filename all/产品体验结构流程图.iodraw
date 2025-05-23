@@ -332,8 +332,8 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-68" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Verdana&quot;&gt;RS232&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="814.5" y="260" width="40" height="23.58" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-69" value="FUZ03三维超声波测风传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="981.71" y="266" width="102" height="35" as="geometry" />
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FUZ03三维超声波测风传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="981.71" y="266" width="88.29" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
