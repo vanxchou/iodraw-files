@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-412" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;气瓶柜" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FF9933;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="24" y="-110" width="282" height="175" as="geometry" />
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-415" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#7EA6E0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="17" y="102" width="289" height="426" as="geometry" />
         </mxCell>
@@ -100,8 +97,14 @@
         <mxCell id="K36soh0WRE9wux22xUP7-5" value="流量分配针阀和三通接头" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="343" width="112" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="51" y="-81" width="247" height="105" as="geometry" />
+        <mxCell id="K36soh0WRE9wux22xUP7-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24" y="-110" width="282" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-412" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;气瓶柜" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FF9933;fontFamily=Comic Sans MS;fontSize=20;fontColor=#000000;align=center;" parent="K36soh0WRE9wux22xUP7-14" vertex="1">
+          <mxGeometry y="-20" width="282" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="K36soh0WRE9wux22xUP7-12" value="" style="group" vertex="1" connectable="0" parent="K36soh0WRE9wux22xUP7-14">
+          <mxGeometry x="27" y="29" width="247" height="105" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-6" value="CO&lt;sub&gt;2&lt;/sub&gt;标气" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="K36soh0WRE9wux22xUP7-12">
           <mxGeometry width="114" height="47" as="geometry" />
