@@ -43,7 +43,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-828" value="3.10-3.18" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fillColor=#E6D332;fontSize=18;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="194" y="212" width="160" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-829" value="3.5-3.9" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fillColor=#17997B;fontSize=18;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-829" value="2024.5-2025.5" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fillColor=#17997B;fontSize=18;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="44.5" y="212" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-830" value="1.初步计划指定&lt;br&gt;&lt;br&gt;2.数据同步设置&lt;br&gt;&lt;br&gt;3.账号信息同步" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#17997B;arcSize=3;" parent="1" vertex="1">
