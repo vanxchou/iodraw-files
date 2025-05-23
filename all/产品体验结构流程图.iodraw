@@ -309,7 +309,7 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-62" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Verdana&quot;&gt;RS232&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="818" y="157.17000000000002" width="40" height="23.58" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-63" value="电磁阀单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-63" value="&lt;font color=&quot;#ff0000&quot;&gt;常规气象观测分系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="860" y="205" width="194" height="35" as="geometry" />
         </mxCell>
       </root>
