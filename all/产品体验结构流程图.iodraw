@@ -94,7 +94,7 @@
         <mxCell id="K36soh0WRE9wux22xUP7-18" value="H&lt;sub&gt;2&lt;/sub&gt;O气体分析仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="163.5" y="149" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-33" value="&lt;b&gt;校准分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="K36soh0WRE9wux22xUP7-33" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;校准分系统&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="64" y="-122" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-35" value="智能集成处理器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
