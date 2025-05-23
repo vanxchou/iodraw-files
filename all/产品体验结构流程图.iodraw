@@ -232,6 +232,9 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-26" value="WUSH-9218模块" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="653" y="-112" width="90" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-27" target="3bBizhQkBI8qrhlUWJp7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-27" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="653" y="-36.92" width="90" height="48" as="geometry" />
         </mxCell>
@@ -242,7 +245,7 @@
           <mxGeometry x="880" y="205.8" width="120" height="40.8" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon10;" vertex="1" parent="1">
-          <mxGeometry x="915" y="51.400000000000006" width="50" height="41" as="geometry" />
+          <mxGeometry x="930" y="3.000000000000007" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-32" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon10;" vertex="1" parent="1">
           <mxGeometry x="880" y="-29.92" width="50" height="41" as="geometry" />
