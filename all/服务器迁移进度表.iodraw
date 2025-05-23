@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-808" value="IT基础架构之文件服务器迁移计划服务器迁移进度表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="219" y="37" width="340" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-809" value="服务器迁移进度表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="320" y="22" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-810" value="" style="group;fontColor=#FFFFFF;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="89.5" y="117" width="70" height="85" as="geometry" />
         </mxCell>
