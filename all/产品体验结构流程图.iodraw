@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="333" y="-120" width="303" height="199" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" parent="1" vertex="1">
@@ -215,7 +215,7 @@
           <mxGeometry x="470" y="-117" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-110" width="102.93" height="185" as="geometry" />
+          <mxGeometry x="350" y="-112" width="102.93" height="185" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-8" value="接线端口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="-10" width="90" height="47.3" as="geometry" />
