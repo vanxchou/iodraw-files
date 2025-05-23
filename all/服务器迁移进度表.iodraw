@@ -28,7 +28,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="1.完成产品资料归档&lt;br&gt;&lt;br&gt;2.完成转阶段评审&lt;br&gt;&lt;br&gt;3.完成产品发布" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF6666;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="352" y="300" width="130" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.邮件模板设置&lt;br&gt;&lt;br&gt;2.发送快捷方式&lt;br&gt;&lt;br&gt;3.公司邮件公告" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#4D4D4D;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.邮件模板设置&lt;br&gt;&lt;br&gt;2.发送快捷方式&lt;br&gt;&lt;br&gt;3.公司邮件公告" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF3333;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="503" y="300" width="130" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-834" value="1.排查共享故障&lt;br&gt;&lt;br&gt;2.测试终端加域&lt;br&gt;&lt;br&gt;3.终端策略测试" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#56D656;arcSize=3;" parent="1" vertex="1">
