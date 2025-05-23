@@ -154,6 +154,9 @@
         <mxCell id="K36soh0WRE9wux22xUP7-52" value="控制电路" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="180.75" width="90" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K36soh0WRE9wux22xUP7-54" value="滤瓶" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="496" y="268" width="90" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
