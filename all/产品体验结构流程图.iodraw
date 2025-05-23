@@ -233,7 +233,12 @@
           <mxGeometry x="653" y="-112" width="90" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.143;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-27" target="3bBizhQkBI8qrhlUWJp7-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="-11" />
+              <mxPoint x="850" y="5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-27" value="交换机" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="653" y="-35.42" width="90" height="48" as="geometry" />
@@ -264,6 +269,9 @@
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.159;entryY=0.918;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-27" target="3bBizhQkBI8qrhlUWJp7-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-47" value="智能温度测量仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="134.2" width="120" height="40.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
