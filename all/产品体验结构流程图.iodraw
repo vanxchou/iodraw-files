@@ -323,7 +323,7 @@
         <mxCell id="3bBizhQkBI8qrhlUWJp7-66" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;常规气象观测分系统&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="857" y="355" width="194" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-33">
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.013;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3bBizhQkBI8qrhlUWJp7-33" target="K36soh0WRE9wux22xUP7-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="877" y="285" as="sourcePoint" />
             <mxPoint x="801.5" y="284.83" as="targetPoint" />
