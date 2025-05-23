@@ -4,24 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-819" value="" style="group;fontColor=#FFFFFF;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="539" y="117" width="70" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-820" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fontSize=18;align=center;flipV=1;strokeWidth=3;" parent="ELuROfRh7jPEYIWg2EeA-819" vertex="1">
-          <mxGeometry width="70" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-821" value="终端设置" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;align=center;fillColor=#FF3333;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-819" vertex="1">
-          <mxGeometry x="7.5" y="7" width="55" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-822" value="" style="group;fontColor=#FFFFFF;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="689" y="117" width="70" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-823" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fontSize=18;align=center;flipV=1;strokeWidth=3;" parent="ELuROfRh7jPEYIWg2EeA-822" vertex="1">
-          <mxGeometry width="70" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-824" value="验证收尾" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;align=center;fillColor=#56D656;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-822" vertex="1">
-          <mxGeometry x="7.5" y="7" width="55" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-825" value="3.20-？" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fillColor=#56D656;fontSize=18;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="644" y="212" width="160" height="43" as="geometry" />
         </mxCell>
@@ -65,7 +47,7 @@
           <mxGeometry x="204.5" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6pfswXwJ53Ai6hctfwme-6" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 17px;&quot;&gt;设计定型阶段&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FF6666;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="150" width="116" height="40" as="geometry" />
+          <mxGeometry x="517" y="150" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
