@@ -275,8 +275,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-48" value="电磁阀单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="376" y="54" width="194" height="35" as="geometry" />
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-48" value="状态监控传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-20" width="194" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
