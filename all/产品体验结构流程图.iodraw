@@ -84,9 +84,6 @@
             <mxPoint x="220" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-5" target="K36soh0WRE9wux22xUP7-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-5" value="流量分配针阀和三通接头" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="140" height="44" as="geometry" />
         </mxCell>
