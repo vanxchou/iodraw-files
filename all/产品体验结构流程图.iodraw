@@ -108,9 +108,6 @@
         <mxCell id="K36soh0WRE9wux22xUP7-18" value="H&lt;sub&gt;2&lt;/sub&gt;O气体分析仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="161" y="210" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FI8OPE-p3hhHVf1YDgqs-417" target="K36soh0WRE9wux22xUP7-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-33" value="校准分系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="64" y="-122" width="194" height="35" as="geometry" />
         </mxCell>
@@ -129,7 +126,7 @@
         <mxCell id="K36soh0WRE9wux22xUP7-40" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="420" as="sourcePoint" />
-            <mxPoint x="350" y="420" as="targetPoint" />
+            <mxPoint x="240" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
