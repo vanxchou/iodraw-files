@@ -103,8 +103,8 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-445" value="司&lt;div&gt;机&lt;/div&gt;&lt;div&gt;&lt;span&gt;运&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;营&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=26;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="1048" y="64" width="63" height="638" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-1" value="涡旋进样器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="182" y="240" width="114" height="47" as="geometry" />
+        <mxCell id="K36soh0WRE9wux22xUP7-1" value="气体分析仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="177" width="114" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
