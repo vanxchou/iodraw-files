@@ -163,10 +163,10 @@
         <mxCell id="K36soh0WRE9wux22xUP7-54" value="隔膜泵" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="K36soh0WRE9wux22xUP7-57">
           <mxGeometry x="120" y="79.5" width="90" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-59" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-5" target="K36soh0WRE9wux22xUP7-51">
+        <mxCell id="K36soh0WRE9wux22xUP7-59" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146.5" y="141.29" as="sourcePoint" />
-            <mxPoint x="163" y="141" as="targetPoint" />
+            <mxPoint x="350" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
