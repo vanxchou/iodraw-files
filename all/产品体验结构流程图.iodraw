@@ -371,7 +371,7 @@
         <mxCell id="Gxq2ssPRELsSzco4k-lC-23" value="PV控制器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="376.35" width="90" height="47.3" as="geometry" />
         </mxCell>
-        <mxCell id="Gxq2ssPRELsSzco4k-lC-24" value="太阳能板" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="Gxq2ssPRELsSzco4k-lC-24" value="电池" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="369" y="376.35" width="90" height="47.3" as="geometry" />
         </mxCell>
       </root>
