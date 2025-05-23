@@ -85,69 +85,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-834" value="1.排查共享故障&lt;br&gt;&lt;br&gt;2.测试终端加域&lt;br&gt;&lt;br&gt;3.终端策略测试" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#56D656;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="654" y="300" width="130" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-835" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="85" y="630" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-836" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;" parent="ELuROfRh7jPEYIWg2EeA-835" vertex="1">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-837" value="Z工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;fillColor=#17997B;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-835" vertex="1">
-          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-838" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="236" y="630" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-839" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;" parent="ELuROfRh7jPEYIWg2EeA-838" vertex="1">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-840" value="F工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;fillColor=#E6D332;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-838" vertex="1">
-          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-841" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="387" y="630" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-842" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;" parent="ELuROfRh7jPEYIWg2EeA-841" vertex="1">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-843" value="L工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;fillColor=#FF6666;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-841" vertex="1">
-          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-844" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="538" y="630" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-845" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;" parent="ELuROfRh7jPEYIWg2EeA-844" vertex="1">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-846" value="C工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;fillColor=#666666;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-844" vertex="1">
-          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-847" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="691.5" y="630" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-848" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=18;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;" parent="ELuROfRh7jPEYIWg2EeA-847" vertex="1">
-          <mxGeometry width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-849" value="Z工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;align=center;fillColor=#56D656;strokeColor=none;fontColor=#FFFFFF;" parent="ELuROfRh7jPEYIWg2EeA-847" vertex="1">
-          <mxGeometry x="5" y="5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-850" value="1.制定计划及进度&lt;br&gt;&lt;br&gt;2.技术上同步数据&lt;br&gt;&lt;br&gt;3.备份设置及卷影" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#17997B;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="50" y="730" width="130" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-851" value="1.账号核对一致性&lt;br&gt;&lt;br&gt;检查完毕请在0.9上面全部重置密码为123" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#E6D332;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="201" y="730" width="130" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-852" value="1.共享权限表核对&lt;br&gt;&lt;br&gt;此工作量较大，请安目录进行，务必实时更新进度到今目标" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF6666;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="352" y="730" width="130" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-853" value="1.现场实施支持&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;2.项目收尾支持" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#4D4D4D;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="503" y="730" width="130" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-854" value="1.迁移现场支持&lt;br&gt;&lt;br&gt;2.项目计划监督&lt;br&gt;&lt;br&gt;3.邮件模板制定" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#56D656;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="656.5" y="730" width="130" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-855" value="工作分解结构表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="332" y="562" width="160" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
