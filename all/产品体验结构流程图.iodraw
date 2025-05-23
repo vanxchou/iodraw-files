@@ -251,7 +251,7 @@
           <mxGeometry x="922.43" y="224.75" width="155.14" height="111.58" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-34" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon11;" vertex="1" parent="1">
-          <mxGeometry x="965" y="-163" width="50" height="38" as="geometry" />
+          <mxGeometry x="910" y="-200" width="105" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-35" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon27;" vertex="1" parent="1">
           <mxGeometry x="880" y="-120" width="50" height="33.62" as="geometry" />
