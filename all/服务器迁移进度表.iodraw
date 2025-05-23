@@ -23,7 +23,7 @@
           <mxGeometry x="201" y="296" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="1.完成正样机小批试制&lt;br&gt;2.完成静态测试&lt;br&gt;&lt;br&gt;3.完成外场动态测试&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.完成测试评估&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=left;strokeColor=#FF6666;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="352" y="296" width="130" height="130" as="geometry" />
+          <mxGeometry x="352" y="296" width="138" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.完成产品资料归档&lt;br&gt;&lt;br&gt;2.完成转阶段评审&lt;br&gt;&lt;br&gt;3.完成产品发布" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffffff;fontSize=14;fontColor=#000000;align=center;strokeColor=#FF3333;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="503" y="296" width="130" height="130" as="geometry" />
