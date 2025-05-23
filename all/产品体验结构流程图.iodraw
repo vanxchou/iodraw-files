@@ -34,7 +34,7 @@
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-422" value="&lt;b&gt;气体采样分析分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" parent="1" vertex="1">
           <mxGeometry y="305" width="194" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3bBizhQkBI8qrhlUWJp7-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-1" target="K36soh0WRE9wux22xUP7-35">
+        <mxCell id="3bBizhQkBI8qrhlUWJp7-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="K36soh0WRE9wux22xUP7-1" target="K36soh0WRE9wux22xUP7-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-1" value="CO&lt;sub&gt;2&lt;/sub&gt;气体分析仪" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" parent="1" vertex="1">
