@@ -188,7 +188,7 @@
           <mxGeometry x="380" y="-22.000000000000004" width="54.14" height="25.4" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12250;points=[[0,0.33,0],[1,0.33,0],[0.5,1,0]];rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-113.68" width="48.71" height="42.38" as="geometry" />
+          <mxGeometry x="381" y="-113.68" width="48.71" height="42.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
