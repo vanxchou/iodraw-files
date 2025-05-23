@@ -112,7 +112,7 @@
         <mxCell id="K36soh0WRE9wux22xUP7-6" value="CO&lt;sub&gt;2&lt;/sub&gt;标气" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="35" y="15" width="114" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="K36soh0WRE9wux22xUP7-7" value="CO&lt;sub&gt;2&lt;/sub&gt;标气" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="K36soh0WRE9wux22xUP7-7" value="减压阀" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="36" y="73" width="114" height="47" as="geometry" />
         </mxCell>
       </root>
