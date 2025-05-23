@@ -313,7 +313,7 @@
           <mxGeometry x="860" y="205" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="3bBizhQkBI8qrhlUWJp7-64" value="智能集成处理器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-112" width="180" height="230" as="geometry" />
+          <mxGeometry x="340" y="-112" width="220" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
