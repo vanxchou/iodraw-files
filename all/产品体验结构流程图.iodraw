@@ -157,6 +157,9 @@
         <mxCell id="K36soh0WRE9wux22xUP7-51" value="滤瓶" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="K36soh0WRE9wux22xUP7-57">
           <mxGeometry y="79.5" width="90" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="K36soh0WRE9wux22xUP7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="K36soh0WRE9wux22xUP7-57" source="K36soh0WRE9wux22xUP7-52" target="K36soh0WRE9wux22xUP7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K36soh0WRE9wux22xUP7-52" value="控制电路" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="K36soh0WRE9wux22xUP7-57">
           <mxGeometry x="120" y="1" width="90" height="48" as="geometry" />
         </mxCell>
