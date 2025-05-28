@@ -35,7 +35,7 @@
           <mxGeometry x="23.5" y="180.75" width="112" height="44" as="geometry" />
         </mxCell>
         <mxCell id="ayGcyYdlPP_rA18rcUc6-11" value="&lt;b&gt;气体采样分系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#ff0000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-19.5" y="342.5" width="194" height="35" as="geometry" />
+          <mxGeometry x="-19.5" y="315" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ayGcyYdlPP_rA18rcUc6-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;jumpStyle=arc;" edge="1" parent="1" source="ayGcyYdlPP_rA18rcUc6-13">
           <mxGeometry relative="1" as="geometry">
@@ -132,7 +132,7 @@
             <mxPoint x="10" y="90.46827794561935" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ayGcyYdlPP_rA18rcUc6-40" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ayGcyYdlPP_rA18rcUc6-15">
+        <mxCell id="ayGcyYdlPP_rA18rcUc6-40" value="" style="shape=link;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ayGcyYdlPP_rA18rcUc6-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146.5" y="141.29" as="sourcePoint" />
             <mxPoint x="350" y="290" as="targetPoint" />
