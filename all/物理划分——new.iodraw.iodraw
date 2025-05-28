@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BCuKFbyY2a3rZUDw1ZA3">
-    <mxGraphModel dx="1744" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="17" y="-120" width="303" height="199" as="geometry" />
         </mxCell>
         <mxCell id="ayGcyYdlPP_rA18rcUc6-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="17" y="92" width="303" height="258" as="geometry" />
+          <mxGeometry x="17" y="100" width="123" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ayGcyYdlPP_rA18rcUc6-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;闭路式气池" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#CCCCFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=15;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="153.5" y="100" width="140" height="149" as="geometry" />
