@@ -136,6 +136,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146.5" y="141.29" as="sourcePoint" />
             <mxPoint x="350" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ayGcyYdlPP_rA18rcUc6-41" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12240;points=[[0,0.5,0],[1,0.5,0]]" vertex="1" parent="1">
